@@ -10,9 +10,11 @@
 
 ![imagen]([https://cuestionsocial.com.ar/wp-content/uploads/2023/04/que-se-necesita-estudiar-para-ser-programador-scaled-1200x900.jpg](https://i.gifer.com/72Oz.gif))
 
-````JavaScript
-      let hola = 'hola'
-        console.log(hola)```
+```JavaScript
+let hola = 'hola'
+console.log(hola)```
+
+
 <!--**josealeperdomo/josealeperdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
