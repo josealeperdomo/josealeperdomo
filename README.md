@@ -6,7 +6,7 @@
 </p>
 <br />
 <p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+<img src="[https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif](https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif)" height="240" width="370">
 
 ![imagen](https://cuestionsocial.com.ar/wp-content/uploads/2023/04/que-se-necesita-estudiar-para-ser-programador-scaled-1200x900.jpg)
 <!--**josealeperdomo/josealeperdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
