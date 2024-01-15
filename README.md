@@ -7,6 +7,8 @@
 <br />
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+
+![imagen](https://cuestionsocial.com.ar/wp-content/uploads/2023/04/que-se-necesita-estudiar-para-ser-programador-scaled-1200x900.jpg)
 <!--**josealeperdomo/josealeperdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
