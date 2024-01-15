@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=1AF7D0&random=false&width=435&lines=Hola+mundo;Soy+Programador;Full+Stack)](https://git.io/typing-svg)
 <!--**josealeperdomo/josealeperdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
