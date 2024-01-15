@@ -6,7 +6,7 @@
 </p>
 <br />
 
-![imagen]([[https://cuestionsocial.com.ar/wp-content/uploads/2023/04/que-se-necesita-estudiar-para-ser-programador-scaled-1200x900.jpg](https://i.gifer.com/72Oz.gif)](https://www.epitech-it.es/wp-content/uploads/2023/09/Imagen-2-4.jpg))
+![imagen](https://cuestionsocial.com.ar/wp-content/uploads/2023/04/que-se-necesita-estudiar-para-ser-programador-scaled-1200x900.jpg](https://i.gifer.com/72Oz.gif)](https://www.epitech-it.es/wp-content/uploads/2023/09/Imagen-2-4.jpg)
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif"/>
