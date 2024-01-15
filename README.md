@@ -2,7 +2,6 @@
 
 <p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josealeperdomo&show_icons=true&theme=cobalt)
-</p>
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
@@ -12,7 +11,7 @@
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif"/>
-</p>
+
 ```JavaScript
 let hola = 'HOLA MUNDO'
 console.log(hola)
