@@ -10,7 +10,7 @@
 <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif"/>
 
 ```JavaScript
-let hola = 'hola'
+let hola = 'HOLA MUNDO'
 console.log(hola)
 ```
 
