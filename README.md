@@ -10,6 +10,8 @@
 
 ![imagen]([https://cuestionsocial.com.ar/wp-content/uploads/2023/04/que-se-necesita-estudiar-para-ser-programador-scaled-1200x900.jpg](https://i.gifer.com/72Oz.gif))
 
+<img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif"/>
+
 ```JavaScript
 let hola = 'hola'
 console.log(hola)
