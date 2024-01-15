@@ -2,7 +2,7 @@
 </br>
 <p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josealeperdomo&show_icons=true&theme=cobalt&bg_color=00000000)
-</p>
+
 </br>
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
